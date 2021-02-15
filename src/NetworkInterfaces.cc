@@ -111,6 +111,7 @@ void NetworkInterfaces::print(const std::pair<std::string, std::vector<std::stri
     for (auto&& ipAddress : interface.second)
     {
         std::cout << "\t IP Address " << i << ": " << ipAddress << std::endl;
+        ++i;
     }
 
     std::cout << std::flush;
