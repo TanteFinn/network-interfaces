@@ -1,0 +1,16 @@
+//
+// Created by raimund on 15.02.21.
+//
+
+#ifndef NETWORK_INTERFACES_NETWORKINTERFACESCLASS_H
+#define NETWORK_INTERFACES_NETWORKINTERFACESCLASS_H
+
+class NetworkInterfacesClass {
+private:
+
+
+public:
+};
+
+
+#endif //NETWORK_INTERFACES_NETWORKINTERFACESCLASS_H
